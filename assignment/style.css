@@ -1,11 +1,56 @@
 /* Give your page a fun background color */
+body{
+   font-family: Arial;
+   text-align: center;
+   background-image: linear-gradient(25deg, #DBFF76, #212D40) ;
+   line-height: 50px;
+   color: #FFF;
+}
 
+.turtle_island {
+    border-radius: 1000px;
+    border: 1px solid #D66853;
+    box-shadow: 0 12px 22px 0 rgb(214, 104, 83), 0 200px 200px 0 rgba(142, 32, 115, 0);
+    background-image: linear-gradient(25deg, #212d40, #d66853) ;;
+}
+.glitter_gradient {
+    margin-right:0% ;
+}
+/*Hexadecimal value: */
 /* Make the header and footer a different color from the background */
-
+h1 {
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 700;
+  }
 /* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */
+h2 {
+    font-family: Arial;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+ul {
+    font-family: Helvetica, sans-serif;
+    font-size: 31px;
+    font-style: normal;
+    font-weight: 400;
+    list-style-type: none;
+}
 
+p {
+    color: #4D4D4D;
+    width: 438px;
+    height: 116px;
+    font-size: 31px;
+    font-style: italic;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
 /* Put a border around your image */
 
-/* Change the font-family of your list */
+/* Change the font-family of your list *
